@@ -1,0 +1,12 @@
+ Volume in drive C is PC COE
+ Volume Serial Number is C2B7-EA97
+
+ Directory of C:\Users\dempseyj\Desktop\My Project
+
+03/13/2020  10:17 AM    <DIR>          .
+03/13/2020  10:17 AM    <DIR>          ..
+03/13/2020  09:52 AM                21 index.html
+03/13/2020  09:53 AM               375 test.txt
+03/13/2020  10:17 AM                 0 test2.txt
+               3 File(s)            396 bytes
+               2 Dir(s)  207,576,727,552 bytes free
